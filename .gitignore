@@ -1,4 +1,5 @@
 .bundle/
+.DS_Store
 .gemtags
 .tags
 .tags_sorted_by_file
